@@ -1,0 +1,3 @@
+[submodule "CallowEngine/vendor/spdlog"]
+	path = CallowEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
